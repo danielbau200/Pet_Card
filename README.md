@@ -1,6 +1,6 @@
-# 🐾 PetCard IS (`pet_card_IS`) — Versión Funcional PostgreSQL
+#  PetCard IS (`pet_card_IS`) — Versión Funcional PostgreSQL
 
-Proyecto clonado y adaptado en `/home/daniel/Documentos/pet_card_IS`, conectado a PostgreSQL **sin procedimientos almacenados, sin triggers, sin funciones PL/pgSQL y sin restricciones (FK, CHECK, UNIQUE, NOT NULL)** a nivel de base de datos, delegando toda la lógica e integridad a la capa de aplicación en Node.js / Express.
+Proyecto clonado y adaptado, conectado a PostgreSQL **sin procedimientos almacenados, sin triggers, sin funciones PL/pgSQL y sin restricciones (FK, CHECK, UNIQUE, NOT NULL)** a nivel de base de datos, delegando toda la lógica e integridad a la capa de aplicación en Node.js / Express.
 
 ---
 
