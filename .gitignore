@@ -1,0 +1,22 @@
+# Variables de entorno y credenciales (se conserva .env.example como plantilla)
+.env
+.env.*
+!.env.example
+
+# Claves privadas y certificados
+*.pem
+*.key
+*firebase-adminsdk*.json
+gcs-credentials.json
+
+# Dependencias y logs
+node_modules/
+*.log
+requests.log
+
+# Archivos subidos localmente por usuarios
+public/uploads/*
+
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db
